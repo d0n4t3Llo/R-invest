@@ -1,4 +1,4 @@
-# R-invest
+# Rô-invest
 Simulador de investimentos criado com auxílio do docente responsável.
 O RÔ INVEST é uma ferramenta que visa auxíliar o cliente á:
 -Simular em médio e longo prazo o investimento em fundos imobiliários;
